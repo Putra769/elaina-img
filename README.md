@@ -2,6 +2,10 @@
 
 This repository is simply for storing random images of elaina characters. No fancy functions here!
 
+# Elaina Cantik (Elaina Gambar)
+
+![Thumb](https://files.catbox.moe/rtfluw.png)
+
 ## Why?
 
 Because sometimes you just want to look at cute pictures from [elaina](https://elaina.nexon.com/) without having to scour the entire internet.
